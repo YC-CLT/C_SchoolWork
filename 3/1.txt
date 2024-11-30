@@ -1,0 +1,11 @@
+202478030533邹为一畅
+x=2,y=3时，
+printf("%d", x);//输出2
+printf("%d", x + x);//输出4
+printf("x=");//输出x=
+printf("x=%d", x);//输出x=2
+printf("%d = %d", x + y, y + x);//输出5=5
+z = x + y;//不输出
+scanf("%d%d", &x, &y);//不输出
+// printf("x + y = %d", x + y);//不输出
+printf("\n");//输出一个换行符
