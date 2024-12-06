@@ -15,5 +15,5 @@ They are some basic projects, mainly practice C language basic syntax and data s
 
 ### 中文
 
-这个仓库用于存放学校的C语言作业（和一些无聊整活搞出来的。  
+这个仓库用于存放学校的C语言作业（和一些无聊整活搞出来的项目）。  
 都是一些基础的小项目，主要是练习C语言的基本语法和数据结构的使用。

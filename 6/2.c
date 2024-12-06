@@ -24,6 +24,5 @@ int main(){
         for (int t = 0; t < b-i; t++)
             putchar(' ');
         putchar('\n');
-    }
-    
+    }   
 }
