@@ -29,6 +29,10 @@
         "system_error": "cpp",
         "text_encoding": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "stdio.h": "c",
+        "string.h": "c",
+        "cctype": "c",
+        "stdlib.h": "c"
     }
 }
