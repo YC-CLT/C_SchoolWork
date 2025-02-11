@@ -26,3 +26,4 @@ They are some basic projects, mainly practice C language basic syntax and data s
   学校のC言語の宿題（といってもいろいろなものがある？を保管するリポジトリです。
 基本的なプロジェクトですが、C言語の基本的な構文とデータ構造の使用を練習するために使用しています。  
   現在完了していますが、記念のために残しておきます。  
+  
