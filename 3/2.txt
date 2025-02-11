@@ -1,0 +1,6 @@
+202478030533邹为一畅
+(a) scanf("%d%d%d%d", &b, &c, &d, &e, &f);
+(b) p = i + j + k + 7;
+(c) printf("Values are replaced");
+(d) printf("a = 5");
+语句(a)与(b)变量的值被替换

@@ -1,0 +1,35 @@
+202478030533 邹为一畅
+(a) scanf( "d", value );
+错误：scanf中少%，&也掉了。
+更正：scanf( "%d", &value );
+(b) printf( "The product of %d and %d is %d"\n, x, y );
+错误：\n应该在""内部，且后面应该有3个变量。
+更正：printf( "The product of %d and %d is %d\n", x, y, z );
+(c) firstNumber + secondNumber = sumOfNumbers
+错误：反了它。从右往左赋值。
+更正：sumOfNumbers = firstNumber + secondNumber
+(d) if ( number => largest )
+        largest == number; 
+错误：使用了错误的比较运算符=>，应该是>=。且不应该是比较而是赋值。
+更正：if ( number >= largest )
+        largest = number
+(e) */ Program to determine the largest of three integers /*
+错误：注释形式错了，应该是/* */
+更正： /* Program to determine the largest of three integers */
+(f) Scanf( "%d", anInteger );
+错误：Scanf应该是小写的scanf，&掉了。
+更正：scanf( "%d", &anInteger );
+(g) printf( "Remainder of %d divided by %d is\n", x, y, x % y );
+错误：缺少%d来输出余数。
+更正：printf( "Remainder of %d divided by %d is %d\n", x, y, x % y );
+(h) if ( x = y );
+        printf(%d is equal to %d \n" ,x ,y );
+错误：比较而不是赋值，且左边掉了"
+更正：if ( x == y );
+        printf(%d is equal to %d \n" ,x ,y );
+(i) print( "The sum is %d\n", x + y );
+错误：printf而不是print
+更正：printf( "The sum is %d\n", x + y );
+(j) Printf( "The value you entered is: %d\n, &value );
+错误：Printf应小写，并且右边少"，还多了&。
+更正：printf( "The value you entered is: %d\n", value );
